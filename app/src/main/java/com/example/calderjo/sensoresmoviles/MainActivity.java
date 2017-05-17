@@ -109,6 +109,7 @@ public class MainActivity extends AppCompatActivity
                     //far
                     simpleChronometer.stop();
                     Toast.makeText(this,"Se detiene",Toast.LENGTH_LONG);
+
                 }
             }
         }
